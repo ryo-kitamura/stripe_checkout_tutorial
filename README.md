@@ -1,0 +1,2 @@
+# stripe_checkout_tutorial
+stripeのcheckoutのtutorialを実装
